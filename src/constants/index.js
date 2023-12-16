@@ -135,7 +135,7 @@ export const experiences = [
     },
     {
         title: "Front-end Developer",
-        company_name: "Nugat Technologies",
+        company_name: "Nugats Technologies",
         icon: nugats,
         iconBg: "#b7e4c7",
         date: "June 2023 - December 2023",
@@ -178,14 +178,14 @@ export const projects = [
         
         name: 'TicTacToe Game',
         description: 'Create a simple and interactive Tic-Tac-Toe game using HTML for structure, CSS for styling, and JavaScript for functionality. The game will be a two-player (X and O) version.',
-        link: 'https://github.com/rachittyagi78/TicTacToe',
+        link: 'https://github.com/rachittyagi78/Tic-Tac-Toe',
     },
     {
         iconUrl: rock,
         theme: 'btn-back-blue',
         name: 'Rock-Paper_Scissor',
         description: 'Create a web-based Rock, Paper, Scissors game using HTML for structure, CSS for styling, and JavaScript for functionality. The game allows a user to play against the computer, making a choice between rock, paper, or scissors, and then determining the winner based on the rules of the game.',
-        link: 'https://github.com/rachittyagi78/rock-paper-scissor',
+        link: 'https://github.com/rachittyagi78/Rock-Paper-Scissor',
     },
     {
         iconUrl: weather,
@@ -199,6 +199,7 @@ export const projects = [
         theme: 'btn-back-orange',
         name: 'Traveler-Website',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
+        link:'https://github.com/rachittyagi78/Traveler_Website'
         
     },
     {
@@ -206,6 +207,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Quiz App',
         description: 'Create a basic quiz application using HTML and CSS that allows users to answer a set of questions and receive feedback on their performance. The app should have a clean and user-friendly interface with responsive design.',
+        link:'https://github.com/rachittyagi78/QuizApp'
         
     }
 ];
