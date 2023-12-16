@@ -135,7 +135,7 @@ export const experiences = [
     },
     {
         title: "Front-end Developer",
-        company_name: "Nugats Technologies",
+        company_name: "Nugat Technologies",
         icon: nugats,
         iconBg: "#b7e4c7",
         date: "June 2023 - December 2023",
